@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="News12PlusNewYork.us@HD" tvg-logo="https://i.ibb.co/tThKYM09/news12plus-NYC.jpg" group-title="News",News12+ New York (1080p) [Geo-blocked]
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NYC_A1/index_new.m3u8
 #EXTINF:-1 tvg-id="WNETDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg" group-title="Undefined",PBS New York NY (WNET) (1080p) [Not 24/7]
 https://wnetdt.lls.pbs.org/out/v1/0456457548354b88b32fc437e4e7ee01/index.m3u8
 #EXTINF:-1 tvg-id="WABCDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/512px-WABC_TV_New_2021.svg.png" group-title="Undefined",WABC-DT1
@@ -15,10 +13,11 @@ http://143.244.60.30/ION_TV/index.m3u8
 http://72.46.118.193/Newsy/index.m3u8
 #EXTINF:-1 tvg-id="PBSKids.us@SD" tvg-logo="https://i.imgur.com/q4cUQKW.png" group-title="Education;Kids",PBS Kids
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
-#EXTINF:-1 tvg-id="WMPTDT2.us@SD",WMPT-DT2 (PBS Create)
+#EXTINF:-1 tvg-id="WMPTDT2.us@SD",PBS CREATE
 https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
 #EXTINF:-1 tvg-id="msnbc.us@SD" tvg-logo="https://i.postimg.cc/KzqhNLQX/msnbc.png" group-title="News",MSNBC (720p)
 http://41.205.93.154/MSNBC/index.m3u8
+
 
 
 
