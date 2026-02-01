@@ -19,3 +19,8 @@ https://dvrfl04.tulix.tv/teleup-wpix/mpegts
 http://143.244.60.30/ION_TV/index.m3u8
 #EXTINF:-1 tvg-id="WPXNDT7.us@SD" tvg-logo="https://i.imgur.com/UfN6aAi.png" group-title="Undefined",WPXN-DT7
 http://72.46.118.193/Newsy/index.m3u8
+#EXTINF:-1 tvg-id="PBSKids.us@SD" tvg-logo="https://i.imgur.com/q4cUQKW.png" group-title="Education;Kids",PBS Kids
+https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
+#EXTINF:-1 tvg-id="FXX.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/512px-FXX_Logo.svg.png" group-title="Entertainment",FXX East
+https://fl1.moveonjoy.com/FXX/index.m3u8
+
